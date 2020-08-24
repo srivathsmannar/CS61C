@@ -1,1 +1,1 @@
-# CS61C
+# projects in computer architecture
